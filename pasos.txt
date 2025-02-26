@@ -1,0 +1,2 @@
+git commit -m 'Agragando Graficas'
+git push origin main 
